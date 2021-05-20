@@ -1,6 +1,6 @@
-# {{ name }}
+#  Assignment 2 – Software Engineering 2 
 
-> {{ description }}
+> Component Composition
 
 ## Build Setup
 
@@ -19,5 +19,4 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
